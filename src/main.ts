@@ -1,0 +1,1 @@
+const test: string = "test for github for desktop"
